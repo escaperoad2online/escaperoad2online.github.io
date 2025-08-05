@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://https://escaperoad2online.github.io/sitemap.xml
+Sitemap: https://escaperoad2online.github.io/sitemap.xml
